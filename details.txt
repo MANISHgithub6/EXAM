@@ -1,0 +1,3 @@
+name:man[D[D[D [C thushar
+age: 22
+college : msrit
