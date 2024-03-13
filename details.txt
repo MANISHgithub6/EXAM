@@ -1,0 +1,6 @@
+
+name : manish
+age: 22
+college: msrit
+
+
